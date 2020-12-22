@@ -1,0 +1,141 @@
+.top-container {
+    background-color: #557571;
+    padding-top: 100px;
+    position: relative;
+}
+
+h1 {
+    color: #f7d1ba;
+    font-family:'Clicker Script', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+}
+
+p {
+    line-height: 2;
+}
+.subtitle {
+    color: #f7d1ba;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h2 {
+    color: #d49a89;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #f7d1ba;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 250px;
+    top: 30px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 250px;
+}
+
+.profile {
+    width: 20%;
+    margin: auto;
+}
+
+.pie-image {
+    float: left;
+    margin-right: 30px;
+    width: 15%;
+}
+
+.travel-image {
+    float: right;
+    margin-left: 30px;
+    width: 15%;
+}
+
+.footer-link {
+    color: #d49a89;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #f4f4f4;
+}
+
+.skills {
+    margin-top: 100px;
+}
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+}
+
+.contact-message {
+    width: 30%;
+    margin: 20px auto 40px;
+}
+
+hr {
+    color: #f7d1ba;
+    border-style: dotted none none;
+    border-width: 7px;
+    width: 4%;
+}
+
+.bottom-container {
+    background-color: #f7d1ba;
+    margin: 0;
+    padding: 50px 0 20px;
+}
+
+.copy {
+    color: #f4f4f4;
+    font-size: 0.8rem;
+    padding: 20px 0;
+}
+
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 8px;
+    height: 25px;
+    line-height: 20px;
+    color: #EFF5FF;
+    margin: 50px;
+    font-family: Montserrat', sans-serif;
+    width: 100px;
+    font-size: 15px;
+    font-weight: normal;
+    padding: 10px;
+    border-color-hover: ;
+    border-style-hover: solid;
+    border-width-hover: 1;
+    background-color: #D49A89;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #557571;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
